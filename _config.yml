@@ -7,8 +7,8 @@ description: Dubai, United Arab Emirates
 
 
 # Build settings
-permalink: /:year/:month/:day/:title/
-excerpt_separator: <!--more-->
+permalink: /blog/:title/
+
 
 # Header pages
 header_pages:
