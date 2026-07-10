@@ -2,6 +2,22 @@ theme: minima
 author: Sumathi Malikarjun
 title: Sumathi Malikarjun | Senior AI Engineer
 description: Dubai, United Arab Emirates
+baseurl: ""
+url: "https://sumathivenisha.github.io"
+
+# Social links
+linkedin_username: sumathi-m-5198271a0
+github_username: sumathivenisha
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Build settings
+markdown: kramdown
+permalink: /:year/:month/:day/:title/
+excerpt_separator: <!--more-->
 header_pages:
   - index.md
   - about.md
