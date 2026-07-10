@@ -18,7 +18,8 @@ plugins:
 markdown: kramdown
 permalink: /:year/:month/:day/:title/
 excerpt_separator: <!--more-->
+
+# Header pages
 header_pages:
-  - index.md
   - about.md
  
